@@ -1,1 +1,1 @@
-link to heroku: https://nyt-bestseller-app.herokuapp.com/
+live link: https://nyt-bestseller-app.herokuapp.com/
